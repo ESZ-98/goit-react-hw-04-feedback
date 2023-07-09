@@ -1,0 +1,21 @@
+.statistics_wrap {
+  padding: auto;
+}
+
+.statistics_title {
+ font-size: 30px;
+}
+
+.statistics_list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.statistics_element {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.statistics_element:last-child {
+  padding-bottom: 0;
+}

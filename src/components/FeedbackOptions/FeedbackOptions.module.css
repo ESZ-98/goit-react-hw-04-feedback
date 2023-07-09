@@ -1,0 +1,17 @@
+.button_list {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+
+.button_feedback {
+  text-transform: capitalize;
+  font-weight: 700;
+  background-color: white;
+  cursor: pointer;
+  border-style: solid;
+  border-color: lightgrey;
+  border-radius: 4px;
+  outline: none;
+}
